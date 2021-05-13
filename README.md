@@ -1,7 +1,7 @@
 # Ingrid
 ## Kebab Case
 ## Smile
-*This text will be italic*
+*Hi Wellington *
 *Item 1
 ## Hi Ingrid
 ## - Adam
