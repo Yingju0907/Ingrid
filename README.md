@@ -3,8 +3,8 @@
 > Happy life
 ## Kebab Case
 ## Smile
-*Hi Wellington *
-*Item 1
+* Hi Wellington *
+__Hi Wellington__
 ## Hi Ingrid
 ## - Adam
 
